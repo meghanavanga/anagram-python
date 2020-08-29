@@ -1,0 +1,4 @@
+pytest==6.0.1
+coverage==5.2.1
+module==0.0.4
+mock==4.0.2
